@@ -1,0 +1,5 @@
+/home/saroj/Documents/gstcam/build/CMakeFiles/rebuild_cache.dir
+/home/saroj/Documents/gstcam/build/CMakeFiles/edit_cache.dir
+/home/saroj/Documents/gstcam/build/src/CMakeFiles/rebuild_cache.dir
+/home/saroj/Documents/gstcam/build/src/CMakeFiles/edit_cache.dir
+/home/saroj/Documents/gstcam/build/src/CMakeFiles/gstcam.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/gstcam.dir/gstcam.c.o  -o gstcam  -lgstreamer-1.0 -lgobject-2.0 -lglib-2.0 
